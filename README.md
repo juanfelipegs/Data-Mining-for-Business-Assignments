@@ -1,1 +1,1 @@
-# Assignments
+# Data Mining for Business Assignments
